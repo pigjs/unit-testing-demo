@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+idea/
+dist/
+root/
+node_modules/
+npm-debug.log*
+.idea/hera-ems.iml
+/.idea/
+/hera-ems.iml
+debug.log
+package-lock.json*
+.history

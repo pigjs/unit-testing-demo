@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "umi-test",
+    "test:coverage": "umi-test --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/jest-dom": "5.15.1",
+    "@testing-library/react": "12.1.2",
+    "@testing-library/react-hooks": "8.0.1",
+    "@testing-library/user-event": "14.4.3",
+    "@umijs/test": "3.5.34",
+    "react-test-renderer": "17.0.2"
+  },
+  "dependencies": {
+    "antd": "3.20.0",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  }
+}
